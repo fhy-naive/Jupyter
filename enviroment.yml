@@ -1,0 +1,7 @@
+dependencies:
+  - python=3.9
+  - pip:
+    - numpy
+    - pandas
+    - matplotlib
+    - Pillow
